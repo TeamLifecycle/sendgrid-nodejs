@@ -1,5 +1,5 @@
 {
-  "author": "SendGrid <info@sendgrid.com> (sendgrid.com)",
+  "author": "",
   "contributors": [
     "Kyle Partridge <kyle.partridge@sendgrid.com>",
     "David Tomberlin <david.tomberlin@sendgrid.com>",
@@ -8,8 +8,8 @@
     "Scott Motte <scott.motte@sendgrid.com>",
     "Robert Acosta <robert.acosta@sendgrid.com>"
   ],
-  "name": "sendgrid",
-  "description": "Official SendGrid NodeJS library.",
+  "name": "sendgrid-extended",
+  "description": "",
   "version": "1.6.0",
   "homepage": "http://sendgrid.com",
   "repository": {
