@@ -14,7 +14,7 @@
   "homepage": "http://sendgrid.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sendgrid/sendgrid-nodejs.git"
+    "url": "git://github.com/VennHQ/sendgrid-nodejs.git"
   },
   "engines": {
     "node": ">= 0.4.7"
