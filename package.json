@@ -10,7 +10,7 @@
   ],
   "name": "sendgrid-extended",
   "description": "",
-  "version": "1.6.0",
+  "version": "1.6.3",
   "homepage": "http://sendgrid.com",
   "repository": {
     "type": "git",
